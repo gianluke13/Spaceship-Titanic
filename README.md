@@ -1,2 +1,2 @@
 # Spaceship-Titanic
-Kaggle challenge
+Kaggle challenge (WORK IN PROGRESS!)
